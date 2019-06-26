@@ -9,3 +9,5 @@ Methods used:
 - K-Nearest Neighbors
 - Random Forest
 - SMOTE/ADASYN Upsampling (7.5% of shipments are late - imbalanced classes)
+
+Feature importance of the Random Forest was used to determine the most predictive features of a late shipment, before it even reaches the trucks.
